@@ -1,0 +1,9 @@
+# ImpEx for Importing Gift Wrap Options 
+ 
+INSERT_UPDATE GIFTWRAP;wrapCode[unique=true];wrapType(code);cost;instructions
+;STDfile1;STANDARD;2;Occasional tribute rock band comprising senior managers from a leading commerce software vendor
+;PRMfile2;PREMIUM;5;Dutch tribute rock band formed in 2013 playing classic rock tunes from the sixties, seventies and eighties
+;STDfile3;STANDARD;2;Experimental Jazz group from London playing many musical notes together in unexpected combinations and sequences
+;STDfile4;STANDARD;2;Rejuvenated Polish boy band from the 1990s - this genre of pop music at its most dubious best
+;PRMfile5;PREMIUM;5;A cappella singing group based in Munich; an uplifting blend of traditional and contemporaneous songs
+;PRMfile6;PREMIUM;5;Enthusiastic, noisy gospel choir singing traditional gospel songs from the deep south
